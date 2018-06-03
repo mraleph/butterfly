@@ -16,9 +16,10 @@ library butterfly;
 
 import 'dart:async';
 import 'dart:collection';
-import 'dart:html' as html;
 
 import 'package:meta/meta.dart';
+
+import 'package:butterfly/html.dart' as html;
 
 part 'src/convenience.dart';
 part 'src/element.dart';
